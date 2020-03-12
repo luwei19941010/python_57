@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7abe42f-2056-4583-8f89-fae0aa05d8ee" name="Default Changelist" comment="" />
+    <list default="true" id="c7abe42f-2056-4583-8f89-fae0aa05d8ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APP01/migrations/0003_auto_20200312_0958.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP01/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP01/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APP01/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/APP01/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OMR_PRO/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/OMR_PRO/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OMR_PRO/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/OMR_PRO/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,14 +18,27 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1YsWYNcJOWAhVPcFkZYeoK1k61t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -62,7 +83,8 @@
       <workItem from="1583799220754" duration="595000" />
       <workItem from="1583818748644" duration="3310000" />
       <workItem from="1583891673846" duration="4813000" />
-      <workItem from="1583923618829" duration="1182000" />
+      <workItem from="1583923618829" duration="7078000" />
+      <workItem from="1583973705925" duration="5024000" />
     </task>
     <servers />
   </component>
@@ -74,21 +96,30 @@
       <screen x="-354" y="-1080" width="1920" height="1050" />
     </state>
     <state x="765" y="-782" key="FileChooserDialogImpl/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583799817877" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1583831229382">
+    <state width="978" height="302" key="GridCell.Tab.0.bottom" timestamp="1583978826069">
       <screen x="-354" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583831229382" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1583831229381">
+    <state width="978" height="302" key="GridCell.Tab.0.bottom/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583978826069" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583936170640" />
+    <state width="978" height="302" key="GridCell.Tab.0.center" timestamp="1583978826069">
       <screen x="-354" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583831229381" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1583831229381">
+    <state width="978" height="302" key="GridCell.Tab.0.center/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583978826069" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583936170640" />
+    <state width="978" height="302" key="GridCell.Tab.0.left" timestamp="1583978826069">
       <screen x="-354" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583831229381" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1583831229382">
+    <state width="978" height="302" key="GridCell.Tab.0.left/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583978826069" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583936170640" />
+    <state width="978" height="302" key="GridCell.Tab.0.right" timestamp="1583978826069">
       <screen x="-354" y="-1080" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583831229382" />
+    <state width="978" height="302" key="GridCell.Tab.0.right/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583978826069" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583936170640" />
+    <state x="132" y="-996" width="945" height="965" key="search.everywhere.popup" timestamp="1583978641064">
+      <screen x="-354" y="-1080" width="1920" height="1050" />
+    </state>
+    <state x="132" y="-996" width="945" height="965" key="search.everywhere.popup/0.0.1366.738/-354.-1080.1920.1050@-354.-1080.1920.1050" timestamp="1583978641064" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1583933679743" />
   </component>
 </project>
